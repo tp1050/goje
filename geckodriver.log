@@ -1,0 +1,56 @@
+1601206425867	geckodriver	INFO	Listening on 127.0.0.1:41351
+1601206425879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVHRVf3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601206429985	Marionette	INFO	Listening on port 35391
+1601206430001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601206447986	Marionette	INFO	Stopped listening on port 35391
+1601206463440	geckodriver	INFO	Listening on 127.0.0.1:51177
+1601206463454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYn7r74"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601206467654	Marionette	INFO	Listening on port 43499
+1601206467671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601206489969	Marionette	INFO	Stopped listening on port 43499
+1601207041100	geckodriver	INFO	Listening on 127.0.0.1:59063
+1601207041115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiFS1tz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601207045142	Marionette	INFO	Listening on port 39103
+1601207045232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601207059923	Marionette	INFO	Stopped listening on port 39103
+1601207666245	geckodriver	INFO	Listening on 127.0.0.1:54897
+1601207666258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep5lWkE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601207670034	Marionette	INFO	Listening on port 44087
+1601207670071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601207685237	Marionette	INFO	Stopped listening on port 44087
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1601317106848	geckodriver	INFO	Listening on 127.0.0.1:59489
+1601317107863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerc2SXO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601317112462	Marionette	INFO	Listening on port 35321
+1601317112529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601317127173	Marionette	INFO	Stopped listening on port 35321
+1602335390716	geckodriver	INFO	Listening on 127.0.0.1:56503
+1602335390821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefkoz6v"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602335408417	Marionette	INFO	Listening on port 43783
+1602335408719	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602335928831	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602338345036	Marionette	INFO	Stopped listening on port 43783
